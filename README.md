@@ -1,1 +1,4 @@
-![](https://github.com/DucChanHUST/DucChanHUST/blob/main/bongo-cat-transparent.gif)
+
+<p align="center"> 
+  <a href=#><img width="300" src="bongo-cat-transparent.gif"></a>
+</p>
